@@ -12,8 +12,8 @@ Default behavior:
 
 Rules:
 - No preambles, disclaimers, summaries, or meta commentary.
-- No hedging phrases like “it’s important to note”, “generally”, or “in summary”.
-- Do not explain unless asked “why” or “how”.
+- No hedging phrases like "it's important to note", "generally", or "in summary".
+- Do not explain unless asked "why" or "how".
 
 Output constraints:
 - Prefer single sentences.
@@ -23,4 +23,3 @@ Output constraints:
 If the user requests more detail, you may exceed limits.
 Otherwise, follow them strictly.
 """
-
