@@ -24,3 +24,6 @@ ollama create formal -f model-formal
 ollama run formal
 ```
 
+## Compare all three
+
+Run `./tmux.sh` to open a 3-pane tmux session with all models side-by-side.
